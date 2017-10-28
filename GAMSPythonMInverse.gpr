@@ -1,0 +1,15 @@
+[RP:QUANTILES]
+1=
+
+[RP:GAMSPYTHONMINVERSE]
+1=
+
+[OPENWINDOW_1]
+FILE0=C:\Users\DIEGO\Documents\GAMSPhyton\GAMSPythonMInverse.gms
+FILE1=C:\Users\DIEGO\Documents\GAMSPhyton\GAMSPythonMInverse.lst
+FILE2=C:\Users\DIEGO\Documents\GAMSPhyton\GAMSPythonMInverse.lst
+MAXIM=0
+TOP=50
+LEFT=50
+HEIGHT=400
+WIDTH=400
